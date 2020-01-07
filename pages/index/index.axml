@@ -1,0 +1,9 @@
+<view>
+  主包 index
+
+  <navigator url="/pages/index/index">index</navigator>
+  <navigator url="/packageA/pages/page1/page1">page1</navigator>
+  <navigator url="/packageA/pages/page2/page2">page2</navigator>
+  <navigator url="/packageB/pages/page3/page3">page3</navigator>
+  <navigator url="/packageB/pages/page4/page4">page4</navigator>
+</view>
